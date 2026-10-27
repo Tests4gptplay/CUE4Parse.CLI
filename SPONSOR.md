@@ -4,6 +4,10 @@ Thank you for supporting the maintenance of **CUE4Parse.CLI Fork**. / 感谢支�
 
 Upstream project / 上游项目：[joric/CUE4Parse.CLI](https://github.com/joric/CUE4Parse.CLI)
 
+## GitHub Sponsors / GitHub 官方赞助
+
+- [GitHub Sponsors — Tests4gptplay](https://github.com/sponsors/Tests4gptplay)（支持单次赞助与每月赞助 / One-time and monthly sponsorships）
+
 ## International / 国际赞助
 
 - [Ko-fi — kou392350](https://ko-fi.com/kou392350)
