@@ -62,3 +62,9 @@ Further detailed documentation is available in the [wiki](https://github.com/Fab
 
 ### License:
 CUE4Parse is licensed under [Apache License 2.0](https://github.com/FabianFG/CUE4Parse/blob/master/LICENSE), and licenses of third-party libraries used are listed [here](https://github.com/FabianFG/CUE4Parse/blob/master/NOTICE).
+
+---
+
+**This fork / 此 Fork：** [Tests4gptplay/CUE4Parse.CLI](https://github.com/Tests4gptplay/CUE4Parse.CLI) · Upstream / 上游：[joric/CUE4Parse.CLI](https://github.com/joric/CUE4Parse.CLI)
+
+**Support / 赞助：** [Ko-fi](https://ko-fi.com/kou392350) · [Patreon](https://www.patreon.com/cw/Kou848) · [爱发电 / Afdian](https://afdian.com/a/kkt_ifd1) · [支付宝 / Alipay](SPONSOR.md)
